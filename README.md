@@ -22,7 +22,3 @@ Movie review datasets collected from Naver Movie, which is the largest Korean mo
     client_id = {YOUR_CLIENT_ID}
     client_secret = {YOUR_CLIENT_SECRET}
     ```
-3. Run `review_summary.py`
-    ```bash
-    python review_summary.py
-    ```
