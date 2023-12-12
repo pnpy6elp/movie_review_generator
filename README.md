@@ -2,8 +2,8 @@
 
 ## Description
 
-**Naver Movie Review Data Based Review Generation Tool Using openAI API**  
-openAI api를 활용한 네이버 영화 리뷰 데이터 기반 평론 생성 도구
+**Naver Movie Review Data Based Review Generation Tool Using Clova API**  
+Clova API를 활용한 네이버 영화 리뷰 데이터 기반 평론 생성 도구
 
 ## Dataset Description
 
